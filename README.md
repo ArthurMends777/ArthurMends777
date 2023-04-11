@@ -1,6 +1,6 @@
 ### Olá, eu sou o Arthur 👋
 
-- ⚡ Estudando PHP
+- ⚡ Estudando PHP e JS
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurMends777&show_icons=true&theme=dark)
