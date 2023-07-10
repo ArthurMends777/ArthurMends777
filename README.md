@@ -6,7 +6,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurMends777&show_icons=true&theme=dark)
 
 <h2> Conhecimento nas seguintes áreas:</h2>
-<div style="display: inline_block"><br>
+<div style="display: flex; flex-direction: column"><br>
   -  HTML
   -  CSS
   -  JavaScript
