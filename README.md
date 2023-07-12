@@ -1,9 +1,6 @@
 ### Olá, eu sou o Arthur 👋
 
-- ⚡ Estudando PHP e JS
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurMends777&show_icons=true&theme=dark)
+- ⚡ Estudando PHP, JS e C#
 
 <h2> Conhecimento nas seguintes áreas:</h2>
 <div style="display: inline-block"><br>
@@ -12,4 +9,5 @@
   <li> JavaScript</li>
   <li> PHP</li>
   <li> React</li>
+  <li> C#</li>
 </div>
