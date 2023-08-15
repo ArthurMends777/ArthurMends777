@@ -8,6 +8,6 @@
   <li> CSS</li>
   <li> JavaScript</li>
   <li> PHP</li>
-  <li> React</li>
+  <li> React-native </li>
   <li> C#</li>
 </div>
