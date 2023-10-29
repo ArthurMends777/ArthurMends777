@@ -2,9 +2,9 @@
 
 <div align="center">
   <a href="https://github.com/GuiLeoni14">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArthurMends777&show_icons=true&theme=night&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArthurMends777&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <br>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArthurMends777&layout=compact&langs_count=20&theme=night"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArthurMends777&layout=compact&langs_count=20&theme=dark"/>
   <br/>
 </div>
 <hr>
