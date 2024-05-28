@@ -11,7 +11,6 @@
   <img align="center" alt="NodeJS" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
   <img align="center" alt="mySql" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="php" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  <img align="center" alt="Csharp" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="javascript" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="html" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="css" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
