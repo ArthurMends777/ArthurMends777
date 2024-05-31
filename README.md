@@ -4,21 +4,27 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArthurMends777&layout=compact&langs_count=20&theme=dark" />
 </div>
 <hr>
-  ## Conhecimento nas seguintes tecnologias
+  <h3>
+    Conhecimento nas seguintes tecnologias  
+  </h3> 
     
-<div style="display: inline_block"><br>
-  <img align="center" alt="reactNative" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" alt="NodeJS" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
-  <img align="center" alt="mySql" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="php" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  <img align="center" alt="javascript" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="html" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  <img align="center" alt="css" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
+  
 <hr>
-  ## Entre em contato 
- 
-<div> 
+  <h3>
+    Entre em contato 
+  </h3> 
   <br>
   <a href="https://www.linkedin.com/in/arthur-mendon%C3%A7a-265171273" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" height="60" width="60"></img></a>
-</div>
