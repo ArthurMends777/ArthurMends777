@@ -1,7 +1,7 @@
 ### Olá, eu sou o Arthur 👋
 
 <div>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArthurMends777&layout=compact&langs_count=20&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMends777&layout=compact&langs_count=20&theme=dark" />
 </div>
 <hr>
   <h3>
